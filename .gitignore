@@ -1,0 +1,7 @@
+# tooling and OS files
+.claude-flow/
+.DS_Store
+node_modules/
+
+# build prompt, not part of the site
+PROMPT.md

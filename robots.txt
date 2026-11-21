@@ -1,0 +1,5 @@
+# Search and AI answer engines are welcome.
+User-agent: *
+Allow: /
+
+Sitemap: https://manideep-ai-ai.github.io/04-cobalt-scroll/sitemap.xml

@@ -1,0 +1,30 @@
+# Rekha V Manideep Reddy
+
+> Software engineer in Hyderabad, India with 1+ years of production experience building backend systems, data pipelines and AI/ML-integrated features: database schemas, REST APIs, automated pipelines and LLM tools.
+
+This site: Manideep Reddy — Software Engineer Portfolio (Backend, Data, AI) (https://manideep-ai-ai.github.io/04-cobalt-scroll/). It is one of several portfolio designs by the same person; all state the same facts.
+
+## Who is Manideep Reddy?
+Rekha V Manideep Reddy is a Software Engineer (Backend, Data & AI/ML) based in Hyderabad, India. Manideep works at Delta Cubes Pvt. Ltd. (since April 2025) and holds a B.Tech in Computer Science from Bharath Institute of Higher Education and Research (2025).
+
+## What has Manideep built?
+- SignAI: Production recruitment platform with LLM-powered candidate matching (React, Node.js, PostgreSQL, AWS). https://signai.in
+- Jhanko: REST API layer (Python/FastAPI) for a geolocation marketplace with real-time geospatial search.
+- Artemis Job Agent: Open-source AI agent that finds matching jobs, finds the hiring contact and drafts the email.
+- Speech Emotion Recognition: CNN+LSTM model that detects emotion and gender from short audio clips (TensorFlow, FastAPI).
+- Rosso Corsa: Racing-red Omarchy Linux desktop theme. https://github.com/Manideep-Ai-ai/omarchy-rosso-corsa-theme
+
+## Results
+- Cut dashboard load times by about 40% with PostgreSQL indexing.
+- Improved recruitment screening efficiency by about 50% with AI resume parsing.
+- Automated 100% of deployments with GitHub Actions CI/CD.
+- Reduced API response times by about 30% in a geolocation marketplace.
+
+## Skills
+Python, JavaScript, TypeScript, SQL, FastAPI, Flask, Node.js, React.js, PostgreSQL, MySQL, MongoDB, AWS, Docker, CI/CD, LLM integration, AI agents, Machine learning
+
+## How to contact Manideep
+- Email: manideepreddyrekha@gmail.com
+- WhatsApp: https://wa.me/918686669066
+- GitHub: https://github.com/Manideep-Ai-ai
+- LinkedIn: https://linkedin.com/in/rekha-v-manideep-reddy-024976297
