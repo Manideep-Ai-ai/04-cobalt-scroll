@@ -2,7 +2,7 @@
 
 > Software engineer in Hyderabad, India with 1+ years of production experience building backend systems, data pipelines and AI/ML-integrated features: database schemas, REST APIs, automated pipelines and LLM tools.
 
-This site: Manideep Reddy — Software Engineer Portfolio (Backend, Data, AI) (https://manideep-ai-ai.github.io/04-cobalt-scroll/). It is one of several portfolio designs by the same person; all state the same facts.
+This site: Manideep Reddy — Software Engineer Portfolio (Backend, Data, AI) (https://manideepreddy.website/04-cobalt-scroll/). It is one of several portfolio designs by the same person; all state the same facts.
 
 ## Who is Manideep Reddy?
 Rekha V Manideep Reddy is a Software Engineer (Backend, Data & AI/ML) based in Hyderabad, India. Manideep works at Delta Cubes Pvt. Ltd. (since April 2025) and holds a B.Tech in Computer Science from Bharath Institute of Higher Education and Research (2025).

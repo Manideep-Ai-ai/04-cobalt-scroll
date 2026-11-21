@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://manideep-ai-ai.github.io/04-cobalt-scroll/sitemap.xml
+Sitemap: https://manideepreddy.website/04-cobalt-scroll/sitemap.xml
